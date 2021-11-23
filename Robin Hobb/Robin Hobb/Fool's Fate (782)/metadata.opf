@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c703885f-82ad-4414-b223-8eecbbeba931</dc:identifier>
+        <dc:title>Fool's Fate</dc:title>
+        <dc:creator opf:file-as="Hobb, Robin" opf:role="aut">Robin Hobb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-23T16:33:45.201000+00:00</dc:date>
+        <dc:description>SUMMARY:
+A heralded writer of epic fantasy, Robin Hobb has given readers worlds within worlds in her heroic Farseer and Liveship Traders trilogies. Now she takes the final step in the breathtaking trilogy of the Tawny Man, as the tale of FitzChivalry Farseer comes to an epic end. Rife with boundless adventure and unforgettable characters, Fool’s Fate is destined to become a classic of the genre.Assassin, spy, and Skillmaster, FitzChivalry Farseer, now known only as man-at-arms Tom Badgerlock, has become firmly ensconced in the queen’s court at Buckkeep. Only a few are aware of his fabled, tangled past—and the sacrifices he made to survive it. And fewer know of his possession of the Skill magic. With Prince Dutiful, his assassin-mentor Chade, and the simpleminded yet strongly Skilled Thick, FitzChivalry strives to aid the prince on a quest that could ultimately secure peace between the Six Duchies and the Outislands—and win Dutiful the hand of the Narcheska Elliania. For the Narcheska has set the prince on an unfathomable task: to behead a dragon trapped in ice—the legendary Icefyre, on the island of Aslevjal. Yet not all the clans of the Outislands support the prince’s effort to behead their legendary defender. Are there darker forces at work behind the Narcheska’s imperious demand? As the prince and his coterie set sail, FitzChivalry works behind the scenes, playing nursemaid to the ailing Thick, while striving to strengthen their Skill—ultimately bringing his unacknowledged daughter into the web of the Skill magic, where the truth must finally unfold.The quest emerges amid riddles that must be unraveled, a clash of cultures, and the ultimate betrayal. For knowing that the Fool has foretold he will die on the island of ice, FitzChivalry has plotted with Chade to leave his dearest friend behind. But fate cannot so easily be defied.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553582468</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Tawny Man Trilogy" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-23T20:28:33.944000+00:00" name="calibre:timestamp"/>
+        <meta content="Fool's Fate" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

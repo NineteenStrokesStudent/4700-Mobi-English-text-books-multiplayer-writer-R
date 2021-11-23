@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a9acff3-f05e-4765-a1d8-7b5a093a6ce2</dc:identifier>
+        <dc:title>A Nose for Justice</dc:title>
+        <dc:creator opf:file-as="Brown, Rita Mae" opf:role="aut">Rita Mae Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Explosive sabotage and the startling unearthing of a hundred-year-old skeleton on a Nevada ranch thrillingly start off this debut novel in a tail-wagging new series from New York Times bestselling author Rita Mae Brown. With the ruins of her high-powered Wall Street job now far in the rearview mirror of her rented silver Camaro, thirty-two-year-old Mags Rogers arrives at her great-aunt Jeep’s sprawling Wings Ranch to reassemble her life. In the passenger seat, with his suspicious nose to a cracked window, is Mags’s beloved wirehaired dachshund, the urbane Baxter.  Mags was named for her great-aunt, Magdalena—though everyone calls the spry octogenarian rancher Jeep. From piloting planes in World War II to discovering one of America’s largest gold deposits, Jeep has enjoyed a lifetime jam-packed with love and adventure, and she’s not done yet. At her side—to Baxter’s low-down distress—is Jeep’s loyal German Shepherd mix, King. The growlings are mutual: King sniffs that Baxter is a “fuzzy sausage.”Meanwhile, someone pipe-bombs Red Rock Valley’s pumping station, endangering the water supply near and far. Deputy Pete Meadows links the sabotage to a string of local murders, but he doesn’t yet know if it’s a corporate plot or twisted eco-terrorism. He’s also called out to Wings Ranch when human bones are dug up in Jeep’s barn; the dead man’s ring identifies him as an elite Russian military officer from the late 1800s, apparently knifed to death. In her search to find out whodunit, Mags uncovers fascinating history about Jeep’s ranch, including an intriguing connection to Buffalo Bill.  Mags and Pete have mysteries to solve, among them why they are so drawn to each other. Baxter and King team up when it comes time to protect their humans. And all the while, Jeep Reed, the sassiest wit in the West, has a bold plan for Red Rock Valley in which they all will play a part.</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345511812</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Dogs</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-21T21:00:09.224000+00:00" name="calibre:timestamp"/>
+        <meta content="Nose for Justice, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;, &quot;Dogs&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

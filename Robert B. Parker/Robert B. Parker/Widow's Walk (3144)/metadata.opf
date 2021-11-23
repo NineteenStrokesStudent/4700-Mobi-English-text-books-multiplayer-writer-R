@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c6634c5-4afb-42e3-91a2-e33c79b8a4e2</dc:identifier>
+        <dc:title>Widow's Walk</dc:title>
+        <dc:creator opf:file-as="Parker, Robert B." opf:role="aut">Robert B. Parker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-04T07:47:38.354000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+"Sometimes you have to wonder how Robert B. Parker keeps his mojo working. . . . There is a trick to keeping the faith with an old hero.  In an age of shifty heroes with shaky values, he has created a hero who can still stand up for himself-and us." (*The New York Times Book Review*)    When fifty-one-year-old Nathan Smith, a once-confirmed bachelor, is found in his bed with a hole in his head made by a .38-caliber slug, it's hard not to imagine Nathan's young bride as the one with her finger on the trigger. Even her lawyer thinks she's guilty. But given that Mary Smith is entitled to the best defense she can afford-and thanks to Nathan's millions, she can afford plenty-Spenser hires on to investigate Mary's bona fides.  Mary's alibi is a bit on the flimsy side: She claims she was watching television in the other room when the murder occurred. But the couple was seen fighting at a high-profile cocktail party earlier that evening, and the prosecution has a witness who says Mary once tried to hire him to kill Nathan. What's more, she's too pretty, too made-up, too blonde, and sleeps around-just the kind of person a jury loves to hate.    Spenser's up against a wall; leads go nowhere, no one knows a thing.  Then a young woman, recently fired from her position at Smith's bank, turns up dead. Mary's vacant past suddenly starts looking meaner and darker-and Spenser's suddenly got to watch his back.    With lean, crackling dialogue, crisp action, and razor-sharp characters, *Widow's Walk* is another triumph.</dc:description>
+        <dc:publisher>Berkley Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425189047</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Spenser novels" name="calibre:series"/>
+        <meta content="29" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-03T07:10:53.867000+00:00" name="calibre:timestamp"/>
+        <meta content="Widow's Walk" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

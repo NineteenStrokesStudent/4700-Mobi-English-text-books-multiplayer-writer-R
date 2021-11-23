@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c73f5243-5eeb-4599-9330-7a4830b868cc</dc:identifier>
+        <dc:title>School Days</dc:title>
+        <dc:creator opf:file-as="Parker, Robert B." opf:role="aut">Robert B. Parker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-30T07:48:35.109000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The celebrated series continues as a troubled teenager accused of a horrific crime draws Spenser into one of the most desperate cases of his career. 
+
+  Lily Ellsworth - erect, firm, white-haired, and stylish - is the grand dame of Dowling, Massachusetts, and possesses an iron will and a bottomless purse. When she hires Spenser to investigate her grandson Jared Clark's alleged involvement in a school shooting, Spenser is led into an inquiry that grows more harrowing at every turn. Though seven people were killed in cold blood, and despite Jared's being named as a co-conspirator by the other shooter, Mrs. Ellsworth is convinced of her grandson's innocence. Jared's parents are resigned to his fate, and the boy himself doesn't seem to care whether he goes to prison for a crime he might not have committed. 
+
+Robert B. Parker, the author of more than forty novels, has long been acknowledged as the dean of American crime fiction and has been named Grand Master of the 2002 Edgar awards by the Mystery Writers of America, an honor shared with earlier masters such as Alfred Hitchcock and Ellery Queen.  Parker's fictional Spenser inspired the ABC-TV series "Spenser: For Hire." More recently, the Spenser novels *Small Vices* and *Thin Air* have been made into television films for the A&amp;E network. Robert B. Parker lives in Boston.</dc:description>
+        <dc:publisher>Large Print Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594131165</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Spenser novels" name="calibre:series"/>
+        <meta content="33" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-03T07:07:06.969000+00:00" name="calibre:timestamp"/>
+        <meta content="School Days" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

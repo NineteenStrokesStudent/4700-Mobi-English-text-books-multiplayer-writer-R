@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb54e8ce-e1ff-43ad-8236-ab1ef7eedc2d</dc:identifier>
+        <dc:title>Theodosia and the Serpents of Chaos</dc:title>
+        <dc:creator opf:file-as="LaFevers, R. L." opf:role="aut">R. L. LaFevers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-24T07:00:00+00:00</dc:date>
+        <dc:description>(Theodosia #1)
+SUMMARY:
+Theodosia Throckmorton has her hands full at the Museum of Legends and Antiquities in London. Her father may be head curator, but it is Theo—and only Theo—who is able to see all the black magic and ancient curses that still cling to the artifacts in the museum. When Theo’s mother returns from her latest archaeological dig bearing the Heart of Egypt—a legendary amulet belonging to an ancient tomb—Theo learns that it comes inscribed with a curse so black and vile that it threatens to crumble the British Empire from within and start a war too terrible to imagine. Intent on returning the malevolent artifact to its rightful place, Theo devises a daring plan to put things right. But even with the help of her younger brother, a wily street urchin, and the secret society known as the Brotherhood of the Chosen Keepers, it won’t be easy . . . she quickly finds herself pursued down dark alleys, across an ocean, through the bustling crowds of Cairo, and straight into the heart of an ancient mystery. Theo will have to call upon everything she’s ever learned in order to prevent the rising chaos from destroying her country—and herself!</dc:description>
+        <dc:publisher>Houghton Mifflin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780618756384</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="Theodosia" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-24T21:20:58.609613+00:00" name="calibre:timestamp"/>
+        <meta content="Theodosia and the Serpents of Chaos" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 4, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

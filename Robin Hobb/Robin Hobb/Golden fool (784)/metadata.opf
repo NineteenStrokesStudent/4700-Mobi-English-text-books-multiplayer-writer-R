@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b646bc78-e7d6-4c11-9043-63b135d31734</dc:identifier>
+        <dc:title>Golden fool</dc:title>
+        <dc:creator opf:file-as="Hobb, Robin" opf:role="aut">Robin Hobb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-09T18:20:46.700000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The acclaimed *Farseer* and *Liveship Traders* trilogies established Robin Hobb as one of the most splendidly imaginative practitioners of world-class fantasy. Now, in Book 2 of her most stunning trilogy yet, Hobb continues the soul-shattering tale of FitzChivalry Farseer. With rich characters, breathtaking magic, and sweeping action, **Golden Fool** brings the reluctant adventurer further into the fray in an epic of sacrifice, salvation, and untold treachery.**Golden Fool**Prince Dutiful has been rescued from his Piebald kidnappers and the court has resumed its normal rhythms. But for FitzChivalry Farseer, a return to isolation is impossible. Though gutted by the loss of his wolf bondmate, Nighteyes, Fitz must take up residence at Buckkeep and resume his tasks as Chade’s apprentice assassin. Posing as Tom Badgerlock, bodyguard to Lord Golden, FitzChivalry becomes the eyes and ears behind the walls. And with his old mentor failing visibly, Fitz is forced to take on more burdens as he attempts to guide a kingdom straying closer to civil strife each day.The problems are legion.  Prince Dutiful’s betrothal to the Narcheska Elliania of the Out Islands is fraught with tension, and the Narcheska herself appears to be hiding an array of secrets. Then, amid Piebald threats and the increasing persecution of the Witted, FitzChivalry must ensure that no one betrays the Prince’s secret—a secret that could topple the Farseer throne: that he, like Fitz, possesses the dread “beast magic.”Meanwhile, FitzChivalry must impart to the Prince his limited knowledge of the Skill: the hereditary and addictive magic of the Farseers. In the process, they discover within Buckkeep one who has a wild and powerful talent for it, and whose enmity for Fitz may have disastrous consequences for all.Only Fitz’s enduring friendship with the Fool brings him any solace. But even that is shattered when unexpected visitors from Bingtown reveal devastating secrets from the Fool’s past. Now, bereft of support and adrift in intrigue, Fitz’s biggest challenge may be simply to survive the inescapable and violent path that fate has laid out for him.*From the Hardcover edition.*</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553582451</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Tawny Man Trilogy" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-23T20:28:33.353000+00:00" name="calibre:timestamp"/>
+        <meta content="Golden fool" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

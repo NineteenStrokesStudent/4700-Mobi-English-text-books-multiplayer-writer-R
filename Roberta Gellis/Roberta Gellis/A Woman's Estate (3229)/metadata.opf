@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38b389f9-28e5-45cb-9b4d-c168ff320b41</dc:identifier>
+        <dc:title>A Woman's Estate</dc:title>
+        <dc:creator opf:file-as="Gellis, Roberta" opf:role="aut">Roberta Gellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T05:06:26.236000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Fifth in the Heiress series. Abigail Lydden, widow of Francis, Lord Lydden, left America for England in the middle of the war of 1812 because her husband's father had died and her son was now heir to an earldom. Sir Arthur St. Eyre was also taken by surprise by Lord Lydden's death, finding himself executor of the earl's estate. Sir Arthur and Lady Lydden are thrown together and find it an attractive association, which becomes more and more intense when Victor's and Abigail's lives are threatened. But those threats are not the only problems. Sir Arthur is a Member of Parliament and eager for a British victory in America. Although British by birth, Abigail's sympathies are mainly with "poor little America", as a victim of Britain's armed power. The heat of contention only adds to the heat of attraction, but can Sir Arthur allow Abigail the independence she needs-and can he forgive her when he discovers she has committed treason? Accusation and enlightenment explode family ties, leaving Arthur and Abigail to reorder their lives. . . if they can. Publisher's Note:  This book was originally published elsewhere in 1984.</dc:description>
+        <dc:publisher>Ellora's Cave Publishing, Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781419960215</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Historical</dc:subject>
+        <meta content="Heiress series" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-18T16:41:54.621000+00:00" name="calibre:timestamp"/>
+        <meta content="Woman's Estate, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

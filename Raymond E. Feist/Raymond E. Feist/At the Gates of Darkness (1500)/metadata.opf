@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00dd6728-d18d-4c8a-9124-58117245f0b6</dc:identifier>
+        <dc:title>At the Gates of Darkness</dc:title>
+        <dc:creator opf:file-as="Feist, Raymond E." opf:role="aut">Raymond E. Feist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-24T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Ten years after the terrible Darkwar finally ended, catastrophe once again threatens to engulf Midkemia and Kelewan, as the demon hordes continue their relentless quest to infiltrate this realm of magic and wonder. . . .  **
+
+ *At the Gates of Darkness* Book Two of the Demonwar Saga   
+
+ To protect their world from the savage demon hordes, the Black Sorcerer Pug and Midkemia's clandestine protectors, the Conclave of Shadows, forged an uneasy alliance of formidable magical talents. Together, this brave band of wizards, demon masters, warriors, and elves defeated the brutal Demon King Maarg and turned back the onrushing death tide.  
+
+ But Maarg's fall has not stopped the demonic onslaught, and danger now looms greater than ever before. Amid the barren ridges of the Valley of Lost Men, in the shadows of an ancient Keshian fortress, the fearsome demon Dahun and the mad necromancer Belasco have joined forces, creating an unstoppable union of deathly black magics that even Pug and a united Conclave may not be strong enough to withstand.  
+
+ Battling the Demon Legion has taken a heavy blood toll on the valiant and dedicated magician, claiming the lives of nearly all those he loves. Though he is racked by despair and rage, Pug knows that the time for mourning must wait. Putting aside his pain, he and the Conclave and their allies—the cold-blooded master spy Jim Dasher; the fearsome young Knight-Adamant Sandreena; her former lover the necromancer Amirantha; two renegade Star Elves; and Pug's surviving son, Magnus—must marshal their resources against this latest threat. None can forget the dozens of worlds overrun by the demon plague and the millions of dead left behind in their wake. At the gates of darkness, where shadows hide even deeper shadows, these magical defenders will face what is sure to be the bloodiest, nastiest fight their land has ever seen. And as evil, mayhem, and dark magic are unleashed, none can predict if they—and Midkemia itself—will survive.</dc:description>
+        <dc:publisher>Eos</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061468377</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="The Demonwar Saga" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-22T16:46:17.594000+00:00" name="calibre:timestamp"/>
+        <meta content="At the Gates of Darkness" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

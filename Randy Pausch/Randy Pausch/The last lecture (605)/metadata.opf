@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6d106ac-69cd-481f-908f-024100c0da35</dc:identifier>
+        <dc:title>The last lecture</dc:title>
+        <dc:creator opf:file-as="Pausch, Randy &amp; Zaslow, Jeffrey" opf:role="aut">Randy Pausch</dc:creator>
+        <dc:creator opf:file-as="Pausch, Randy &amp; Zaslow, Jeffrey" opf:role="aut">Jeffrey Zaslow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-08T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**"We cannot change the cards we are dealt, just how we play the hand."  --Randy Pausch**  
+
+A lot of professors give talks titled "The Last Lecture."  Professors are asked to consider   their demise and to ruminate on what matters most to them.  And while they speak,   audiences can't help but mull the same question: What wisdom would we impart to the   world if we knew it was our last chance?  If we had to vanish tomorrow, what would we   want as our legacy?  
+
+When Randy Pausch, a computer science professor at Carnegie Mellon, was asked to give such a lecture, he didn't have to imagine it as his last, since he had recently been diagnosed with terminal cancer.  But the lecture he gave--"Really Achieving Your Childhood Dreams"--wasn't about dying.  It was about the importance of overcoming obstacles, of enabling the dreams of others, of seizing every moment (because "time is all you have...and you may find one day that you have less than you think").  It was a summation of everything Randy had come to believe.  It was about *living*.  
+
+In this book, Randy Pausch has combined the humor, inspiration and intelligence that made his lecture such a phenomenon and given it an indelible form.  It is a book that will be shared for generations to come.</dc:description>
+        <dc:publisher>Hyperion</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781401323257</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-06-15T09:12:54+00:00" name="calibre:timestamp"/>
+        <meta content="last lecture, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;, &quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

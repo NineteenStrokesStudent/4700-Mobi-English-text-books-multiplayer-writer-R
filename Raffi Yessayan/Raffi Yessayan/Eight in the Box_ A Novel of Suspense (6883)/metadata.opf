@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74ebb784-04cb-4635-844c-00e82a6a4c8e</dc:identifier>
+        <dc:title>Eight in the Box: A Novel of Suspense</dc:title>
+        <dc:creator opf:file-as="Yessayan, Raffi" opf:role="aut">Raffi Yessayan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-15T00:41:24.083000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In this swiftly paced, breathlessly suspenseful debut novel, the bizarre rampage of an elusive serial killer sends shockwaves through Boston, igniting a harrowing police manhunt and resounding at the highest levels of the criminal justice system. Drawing on eleven years’ experience as a Boston assistant district attorney–and as chief prosecutor with the elite Gang Unit–Raffi Yessayan renders a stark, realistic, and gripping portrait of law enforcement professionals on the job, and under the gun, in a city at the mercy of a madman.The scene is perplexingly always the same: the home of a single woman, no signs of forced entry, no evidence of an intruder, and no victim–only a bathtub filled with blood. Newly promoted homicide detective Angel Alves wants to make his mark in the department and a difference on the streets. But juggling the needs of a family and the demands of a relentlessly driven partner tests the young cop’s commitment as sorely as tracking the killer challenges his skills. Meanwhile, assistant DA Conrad Darget has his own hands full–mentoring an ambitious young law student, whom he is also dating, rallying his fellow attorneys in their daily courtroom battles, and striving to win true justice in an imperfect system. With each new attack the twisted mystery only deepens, and the hunger for answers–and action–intensifies. No sane mind could comprehend the dark design behind it all. And no one can anticipate the final fateful strokes that will lead to a shocking endgame.From its chilling first pages to its heart-stopping home stretch, Eight in the Box thrills at every turn and surprises at every opportunity–racing at an ever increasing velocity to deliver a climax that pays off in devastating style.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345507235</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-01T00:41:03.075000+00:00" name="calibre:timestamp"/>
+        <meta content="Eight in the Box: A Novel of Suspense" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

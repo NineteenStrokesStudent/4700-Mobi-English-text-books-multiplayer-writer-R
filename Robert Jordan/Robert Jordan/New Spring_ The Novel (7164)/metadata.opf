@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20d76d7e-a51f-43b5-9d5f-5aea418dd258</dc:identifier>
+        <dc:title>New Spring: The Novel</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+rom America's premier fantasy writer-the #1 New York Times and USA Today bestselling author of Crossroads of Twilight-comes New Spring: The Novel.   Robert Jordan's Wheel of Time has captured the imagination of millions of readers who eagerly await each new volume of the saga. Now, Jordan gives us a glimpse of the events leading up to the first book of the Wheel of Time. New Spring: The Novel is a perfect introduction to the Wheel of Time.   For three days, battle has raged in the snow around the great city of Tar Valon. In the city, a Foretelling of the future is uttered. On the slopes of Dragonmount, the immense mountain that looms over the city, is born an infant prophesied to change the world. That child must be found before the forces of the Shadow have an opportunity to kill him. Moiraine Damodred, a young Accepted soon to be raised to Aes Sedai, and Lan Mandragoran, a young soldier fighting in the battle, are       set on paths that will bind their lives together. But those paths are filled with complications and dangers, for Moiraine, of the Royal House of Cairhien, whose King has just died, and Lan, considered the uncrowned king of a nation long dead, find their lives threatened by the plots of those seeking power. 'New Spring,' the novella first published in Legends, related some of these events, in compressed form. New Spring: The Novel tells the whole story.   Robert Jordan is a graduate of The Citadel. He lives in Charleston, South Carolina.</dc:description>
+        <dc:publisher>St Martins Pr</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765306296</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Wheel of Time" name="calibre:series"/>
+        <meta content="0" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-03T20:32:14.214000+00:00" name="calibre:timestamp"/>
+        <meta content="New Spring: The Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

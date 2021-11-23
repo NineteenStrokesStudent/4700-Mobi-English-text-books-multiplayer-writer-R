@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7872cefa-122a-44e6-85fd-174e4f9a029f</dc:identifier>
+        <dc:title>Instruments of Darkness</dc:title>
+        <dc:creator opf:file-as="Wilson, Robert" opf:role="aut">Robert Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-03T06:26:41.225000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;PRAISE FOR &lt;em&gt;INSTRUMENTS OF DARKNESS&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;"A witty, fast-moving and picaresque tale . . . peopled by deliciously shady characters."--Nelson DeMille  &lt;/p&gt;&lt;p&gt;"An atmospheric and absorbing debut ... Vividly paints a credible picture of a world I know almost nothing about. Now I feel I've been there." --Val McDermid  &lt;/p&gt;&lt;p&gt;PRAISE FOR &lt;em&gt;THE COMPANY OF STRANGERS:&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;"An espionage thriller of the first order--complex, exotic, romantic."_--San Francisco Chronicle_  &lt;/p&gt;&lt;p&gt;PRAISE FOR &lt;em&gt;A SMALL DEATH IN LISBON:&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;"A taut international thriller."_--Time_  &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;From the author of the national bestseller &lt;em&gt;A Small Death in Lisbon&lt;/em&gt; and &lt;em&gt;The Company of Strangers&lt;/em&gt; comes Wilson's compelling first novel, never before available in the United States. Bruce Medway's existence as a fixer and troubleshooter had been tough, but never life-threatening until he crossed paths with the mighty Madame Severnou. His life becomes even more complicated by his search for a missing fellow expat, Steven Kershaw. Against a backdrop of political disruption and endemic official corruption, Medway pursues the elusive phantom of Kershaw. &lt;br /&gt;&lt;em&gt;Instruments of Darkness&lt;/em&gt; powerfully evokes the atmosphere, politics, and people of West Africa. With Medway's ironic voice, flashes of humor that may recall Raymond Chandler, and unforgettable characters, this compulsively readable thriller is the beginning of a remarkable series.  &lt;/p&gt;</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780156011136</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Bruce Medway" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-27T06:15:54.961000+00:00" name="calibre:timestamp"/>
+        <meta content="Instruments of Darkness" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

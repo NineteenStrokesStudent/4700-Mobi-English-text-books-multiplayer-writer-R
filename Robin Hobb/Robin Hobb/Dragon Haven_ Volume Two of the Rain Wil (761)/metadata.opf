@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bd75da0-b0fb-4c86-935c-1e31da2b585d</dc:identifier>
+        <dc:title>Dragon Haven: Volume Two of the Rain Wilds Chronicles</dc:title>
+        <dc:creator opf:file-as="Hobb, Robin" opf:role="aut">Robin Hobb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T18:27:57.769000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The acclaimed *New York Times* bestselling author of *Dragon Keeper* returns with a second enthralling tale of dragons and humans, adventure and discovery, love and freedom   
+
+ Centuries had passed since dragons last roamed the war-torn world of the Rain Wild River. But as peace once again settled upon the land, a lost generation of sea serpents—ancient, half-starved, and weary—returned to cocoon, certain that they would be reborn as the beautiful and powerful dragons of legend. But their arduous journey exacted a heavy toll, and the proud serpents emerged as sickly, half-formed beasts, unable to fly or hunt . . . or thrive. For years now they have been trapped on a swampy riverbank between forest and river, hungry and barely alive, reliant on humans to provide for them.  
+
+ With their survival at stake, fifteen dragons—among them the wise golden Mercor, the haughty and dazzling silver-blue queen Sintara, and the delicate copper beauty Relpda—have set off on a dangerous trek into the unknown, up the Rain Wild River, in hopes of rediscovering the ancient Elderling city of Kelsingra, the lost haven for dragons and Elderlings alike. The dragons are accompanied by a disparate group of human keepers, rejects from Rain Wild society. They, too, yearn to find Kelsingra and create a home of their own, one in which they may make their own rules and decide their own fate. But is Kelsingra real or merely a fragment of a glorified past buried deep in the dragons' shared memories? No map exists to guide them, and the noble creatures find their ancient recollections of little use in a land changed by generations of flooding and seismic chaos.  
+
+ As the dragons, the humans—including the strong and defiant Rain Wild girl Thymara; the wealthy dragon scholar and Trader's wife, Alise; and her companion, the urbane Sedric—and their magical supply barge, captained by the gruff Leftrin, forge their way ever deeper into uncharted wilderness, human and beast alike discover they are changing in mysterious and dangerous ways. While the bonds between them solidify, starvation, flashfloods, and predators will imperil them all. But dragons and humans soon learn that the most savage threats come from within their own company . . . and not all of them may survive.  
+
+ Returning to the territory of her beloved Liveship Traders and Tawny Man trilogies, *New York Times* bestselling author Robin Hobb creates a lush and ultimately triumphant tale set in an imaginative world of magic and wonder as compelling and emotionally resonant as our own.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061931413</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Rain Wild Chronicles" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-23T20:28:36.609000+00:00" name="calibre:timestamp"/>
+        <meta content="Dragon Haven: Volume Two of the Rain Wilds Chronicles" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1508</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6000edbb-cf96-4632-8b9d-b392ef33c19e</dc:identifier>
+        <dc:title>Krondor: Tear of the Gods</dc:title>
+        <dc:creator opf:file-as="Feist, Raymond E." opf:role="aut">Raymond E. Feist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-29T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Return now to a kingdom in constant peril; a land magical, scarred, and wondrous, where great heroes rise up from adversity to battle fearsome enemies who covet the riches within its borders. New York Times bestselling author Raymond E. Feist -- one of the world 's preeminent fantasists -- continues his extraordinary Riftwar Legacy with a sweeping tale of conflict, trial, and grim necessity, as the forces of good join together to staunch the golden lifeblood flowing from the pierced heart of Midkemia.The vile sorcerer Sidi plans to strike the kingdom a fatal blow, setting his creature, the murderous pirate Bear, upon the high seas in pursuit of the vessel that is transporting Midkemia's most holy object: the Tear of the Gods. It is from this miraculous stone that all magic power is believed to flow. And if the Tear becomes the mage's trinket, the future will hold naught but terror, death, and unending night.For Squire James, Lieutenant William, and the able magician Jazhara, the race is on to rescue the remarkable artifact from the bloodthirsty, unpredictable Bear and his despicable master who would use it to bring catastrophe down upon the world. But it will take greater-than-human swiftness. cunning, courage, and skill for the three to prevail. And the flight of her most peerless defenders will leave Krondor more vulnerable than ever to the terrible ambitions of the depraved.For the mysterious criminal known as the Crawler is preparing to wreak bloody havoc to fulfill his dastardly secret agenda. Once again the sewers of Krondor teem with assassins and monsters as the hour of destiny nears. The fate of an imperiled world is in flux, as all manner of dark creatures are gathered for one unspeakable purpose: to breed the chaos that will hasten the destruction of Squire James and his brave companions...and bring about the total corruption of the Tear of the Gods.</dc:description>
+        <dc:publisher>Eos (HarperCollins)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0380978008</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="The Riftwar Cycle" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-11-30T03:17:13+00:00" name="calibre:timestamp"/>
+        <meta content="Krondor: Tear of the Gods" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: null, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

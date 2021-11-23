@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ba46d63-b0c7-4354-83b7-9aa7f7467d9a</dc:identifier>
+        <dc:title>Rides a Dread Legion</dc:title>
+        <dc:creator opf:file-as="Feist, Raymond E." opf:role="aut">Raymond E. Feist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-17T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The last remnants of an ancient advanced race, the Clan of the Seven Stars, are returning at long last to their lost homeworld, Midkemia—not as friends, but as would-be conquerors. Led by the conjurer Laromendis, they are fleeing the relentless demon hordes that are sweeping through their galaxy and destroying the elves' vast empire planet by planet. Only by escaping to Midkemia and brutally overtaking the war-weary world can the last remnants of a mighty civilization hope to survive . . . if the Dread Legion does not pursue them through the rift.  
+
+The magician Pug, Midkemia's brave and constant defender, is all too familiar with the Demon King Maarg and his minions and their foul capacity for savagery and horror, and he recognizes the even graver threat that is following on the heels of the elven invasion. The onslaught to come will dwarf every dire catastrophe his imperiled world has previously withstood, and there is no magical champion in all of Midkemia powerful enough to prevent it. Only one path remains for Pug and Midkemia's clandestine protectors, the Conclave of Shadows: forging an alliance of formidable magical talents, from the demon-dealing warlock Amirantha, brother of Pug's hated foe, and the demon-taming cleric Sandreena, to the elven Queen Miranda, to the warrior Tomas. However, uniting enemies and bitter, vengeful former lovers will be no easy task, and even together they may ultimately be unable to turn the death tide. But a failure to do so will most certainly ensure Midkemia's doom.</dc:description>
+        <dc:publisher>Eos</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061468353</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="The Demonwar Saga" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-22T16:33:23.143000+00:00" name="calibre:timestamp"/>
+        <meta content="Rides a Dread Legion" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: null, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

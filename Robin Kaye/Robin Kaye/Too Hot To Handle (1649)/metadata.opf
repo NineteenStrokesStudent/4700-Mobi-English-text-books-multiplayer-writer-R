@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f060085-eb32-4fcc-a1be-d4a636dd2ab7</dc:identifier>
+        <dc:title>Too Hot to Handle</dc:title>
+        <dc:creator opf:file-as="Kaye, Robin" opf:role="aut">Robin Kaye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-01T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+He sure would love to have someone to take care of 
+
+Dr. Mike Flynn's single mom taught him early how to cook and clean, and there's nothing like vacuuming or doing dishes to help a guy relax. Annabelle Ronaldi is an artist without a domestic bone in her body. Since her fiance's death, she can't paint, and life looks hopeless. 
+
+Until the day after her sister's wedding, when she wakes up with Mike next to her in bed, and then she's really beside herself - because the handsome stranger is a dead ringer for her dead fiance. 
+
+After their mind-blowing one night stand, Mike is sure this is the woman he wants to take care of forever, but she acts like she's seen a ghost. While Mike sets to work wooing Annabelle, she sets to work sniffing out the truth of the convoluted family secret that turns everybody's lives upside down. 
+
+PRAISE FOR ROMEO, ROMEO: 
+
+"The main characters in this all-around feel-good read have so much personality they almost jump off the page." The Romantic Times (4 out of 5 star review) 
+
+"Robin Kaye strikes gold… and deserves to have her name added to your favorite new author list." Book Loons 
+
+"A snappy, funny, vivid, and romantic story." AllAboutRomance.com 
+
+"Robin Kaye is sure to leave readers looking for a good Italian meal and a man as delicious as the hero."  BookPage 
+
+"Kaye's debut is a delightfully fun, witty romance, making her a writer to watch."  Booklist 
+
+"Kaye's portrayal of modern romance against the background of an old-fashioned, gossipy extended family rings true, and Nick's efforts to wow Rosalie with fabulous home cooking are endlessly entertaining." Publishers Weekly 
+
+"Kaye's writing is a refreshing change from the typical contemporary romance. I could see all the characters as real people showing real feelings with an ending that is truly believable..."  I Just Finished Reviews (20090302)</dc:description>
+        <dc:publisher>Sourcebooks, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781402217661</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="Domestic Gods" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-05T19:29:06.549000+00:00" name="calibre:timestamp"/>
+        <meta content="Too Hot to Handle" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

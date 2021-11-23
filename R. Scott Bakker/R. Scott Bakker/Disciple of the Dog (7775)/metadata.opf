@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc95a35c-2375-443b-b3c3-b4a6571ddd80</dc:identifier>
+        <dc:title>Disciple of the Dog</dc:title>
+        <dc:creator opf:file-as="Bakker, R. Scott" opf:role="aut">R. Scott Bakker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-15T03:30:42.526000+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+ &lt;div&gt;
+ The cleverness Bakker displayed in his Prince of Nothing fantasy trilogy (The Darkness That Comes Before, etc.) is lacking in this suspense novel introducing Disciple Manning, a Newark, N.J., PI who can remember everything he has ever heard. Jonathan and Amanda Bonjour hire Manning to track down their missing 21-year-old daughter, Jennifer, who's joined a New Age cult known as the Framers, dropped out of nursing school, and is possibly now living at "the Compound," an old horse farm in southeastern Pennsylvania that serves as the cult's retreat. The Framers' leader, former Berkeley philosophy professor Xenophon Baars, has persuaded his followers that the world is more than five billion years older than it is and is about to end. Manning heads to the Compound in search of Jennifer, though he suspects she's already dead. A crude, off-putting hero with a flatulence problem may leave few readers eager for a sequel. (Nov.) (c) &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;Product Description&lt;/h3&gt;
+ &lt;div&gt;
+ &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;A crime thriller from an acclaimed master of speculative fiction&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;“And you wonder why I’m cynical. I’ve literally ‘seen it all before.’ The truth is we all have, every single one of us past the age of, say, twenty-five. The only difference is that I remember.”&lt;/i&gt;&lt;/p&gt;&lt;p&gt;No matter how hard he drinks, gambles, or womanizes, Disciple Manning simply cannot forget: not a word spoken, not an image glimpsed, not a pain suffered.  Disciple Manning has total recall. Whatever he hears, he can remember with 100% accuracy.  He can play it back in his head for an infinite number of times without a single change.  This ability makes him a dangerously unorthodox private investigator.&lt;/p&gt;&lt;p&gt;When a New Jersey couple hires Manning to find their daughter, who joined a religious cult before vanishing in a small rust-belt town called Ruddick, he finds himself embroiled in a mystery that will pit his unnatural ability to remember against his desperate desire to forget.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;</dc:description>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765321909</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-31T03:29:38.009000+00:00" name="calibre:timestamp"/>
+        <meta content="Disciple of the Dog" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59253fec-12a0-46d0-9b85-648011db7f5d</dc:identifier>
+        <dc:title>The Romanov Bride</dc:title>
+        <dc:creator opf:file-as="Alexander, Robert" opf:role="aut">Robert Alexander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-22T04:46:13.432000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**The next in the bestselling trilogy —the drama of a grand duchess and the peasant who determines her fate**
+
+
+
+As the Russia of Nicholas and Alexandra rushes toward catastrophe, the Grand Duchess Elisavyeta is ensconced in the lavish and magnificent Romanov court. In the same city, but worlds apart, Pavel is a simple village man in search of a better life. When his young wife, Shura, is shot and killed by tsarist soldiers during a political demonstration, Pavel dedicates his life to overthrowing the Romanovs. Pavel’s underground group assassinates Elisavyeta’s husband, the grand duke, changing her life forever.
+
+
+
+ Grief-stricken, the grand duchess gives up her wealth and becomes a nun dedicated to the poor people of Russia. When revolution finally sweeps in, Elisavyeta is the last Romanov captured, ripped from her abbey in the middle of the night and shuttled to Siberia. It is here, in a distant wood on a moonlit night, that Pavel is left to decide her fate.
+
+
+
+ *The Romanov Bride* is Alexander’s fullest and most engaging book yet. Combining stunning writing with a keen talent for storytelling, Alexander uncovers more compelling Romanov drama and intrigue for his many readers and all fans of historical fiction.</dc:description>
+        <dc:publisher>Viking</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670018819</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="House of Romanov Trilogy" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-26T04:44:57.650000+00:00" name="calibre:timestamp"/>
+        <meta content="Romanov Bride, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

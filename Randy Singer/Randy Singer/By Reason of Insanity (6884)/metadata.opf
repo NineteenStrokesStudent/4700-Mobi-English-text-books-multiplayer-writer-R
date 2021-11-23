@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36341a37-87f8-4e20-8de7-29121e4f5b24</dc:identifier>
+        <dc:title>By Reason of Insanity</dc:title>
+        <dc:creator opf:file-as="Singer, Randy" opf:role="aut">Randy Singer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-10T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+After a series of kidnappings and murders in Virginia Beach, newspaper reporter Catherine O'Rourke experiences disturbing dreams that detail each crime. In an effort to aid the investigation, she shares them with her confidential source—a detective working on the case. Catherine's intimate knowledge of the crimes immediately makes her a prime suspect. When scientific evidence corroborates her guilt, she's arrested and charged with murder. As she begins to doubt her own innocence, Catherine turns to Las Vegas lawyer Quinn Newberg, a high-priced specialist in the insanity defense. Quinn believes in justice, Vegas-style. But he doesn't believe in the supernatural, or that Catherine's dreams are anything other than the result of a fractured personality disorder. *Who can understand the human mind?* Quinn knows that insanity cases are unpredictable, but nothing had prepared him for *this!* To win, or even survive, Quinn will need more than his famed legal maneuvering and biting skepticism. On this case, he needs a miracle.</dc:description>
+        <dc:publisher>Tyndale House Publishers, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781414316338</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Religous</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-01T00:52:44.683000+00:00" name="calibre:timestamp"/>
+        <meta content="By Reason of Insanity" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Religous&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

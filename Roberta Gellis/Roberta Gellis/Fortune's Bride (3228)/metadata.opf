@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90bb8394-be46-4aaa-8580-c9a4766d31f9</dc:identifier>
+        <dc:title>Fortune's Bride</dc:title>
+        <dc:creator opf:file-as="Gellis, Roberta" opf:role="aut">Roberta Gellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-11-01T05:06:18.163000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Robert Moreton loved his life and duty in the army, it was all he ever wanted. He was happy to be sent to Portugal. . .until he came across Esmeralda Talbot, shipwrecked in a small Portuguese village and in danger of being forced to marry the headman's son. Robert rescued Esmeralda, intending to send her immediately to England. Only there was no way he could do so, and to save her reputation from ruin, he married her. Esmeralda could not believe her luck. She had been in love with Robert since years before when he had danced with her at the Governor's ball in India. Married to her dream! Now all she had to do was keep him from fulfilling his promise to annul the marriage. Robert knew life was brighter and better than it had ever been before-but he had no idea why. Esmeralda did not dare hint at her passion for him, lest her too-honorable husband send her to England. How was she ever to get Robert to realize he was in love and wanted to keep her beside him forever? Publisher's Note: This book was originally published elsewhere in 1983.</dc:description>
+        <dc:publisher>DELL</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440126850</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Historical</dc:subject>
+        <meta content="Heiress series" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-18T16:41:54.075000+00:00" name="calibre:timestamp"/>
+        <meta content="Fortune's Bride" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

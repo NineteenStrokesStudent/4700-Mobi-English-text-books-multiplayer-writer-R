@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aac353e5-ae09-4142-a90a-99d036679852</dc:identifier>
+        <dc:title>The Myst Reader</dc:title>
+        <dc:creator opf:file-as="Miller, Rand &amp; Miller, Robyn &amp; Wingrove, David" opf:role="aut">Rand Miller</dc:creator>
+        <dc:creator opf:file-as="Miller, Rand &amp; Miller, Robyn &amp; Wingrove, David" opf:role="aut">Robyn Miller</dc:creator>
+        <dc:creator opf:file-as="Miller, Rand &amp; Miller, Robyn &amp; Wingrove, David" opf:role="aut">David Wingrove</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-31T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;This omnibus edition of the hugely popular &lt;em&gt;Myst&lt;/em&gt; trilogy is published to coincide with the release of &lt;em&gt;Myst Revelations&lt;/em&gt;, the latest in the line of the bestselling &lt;em&gt;Myst&lt;/em&gt; interactive CD-ROM games.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The award-winning &lt;em&gt;Myst&lt;/em&gt; series is one of the most successful interactive CD-ROM computer games in history with sales of more than 12 million copies worldwide. &lt;em&gt;Myst&lt;/em&gt; captivated the world when it was first conceived and created by brothers Rand and Robyn Miller. Its extraordinary success has gone on to spawn &lt;em&gt;Riven, Myst III Exile&lt;/em&gt;, and most recently, &lt;em&gt;Uru: The Ages Beyond Myst&lt;/em&gt;. Devoted fans of these surreal adventure games gather yearly at "Mysterium" (whose event sites are spreading to other countries) to exchange game strategies, share stories, and meet up with old friends. &lt;/p&gt;&lt;p&gt;&lt;em&gt;The Myst Reader&lt;/em&gt; is a literary companion to the CD-ROM games and a compendium of the bestselling official &lt;em&gt;Myst&lt;/em&gt; trilogy: &lt;em&gt;The Book of Atrus, The Book of Ti'ana&lt;/em&gt;, and &lt;em&gt;The Book of D'ni&lt;/em&gt;. Devoted fans and new players alike will be delighted to have three books in this mythic saga together for the first time in one value-priced volume, which will be published in time to coincide with the long-awaited release of &lt;em&gt;Myst Revelations&lt;/em&gt;. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Robyn Miller&lt;/strong&gt;, best known for his work on Myst, currently lives in Spokane, Washington. &lt;strong&gt;Rand Miller&lt;/strong&gt; is the CEO of Cyan Worlds, which is currently working on Uru. When not at work, Miller enjoys photography, guitar, and computer tinkering. He lives in Spokane, Washington, with his wife, Debbie, and three daughters. &lt;/p&gt;</dc:description>
+        <dc:publisher>Hyperion</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781401307813</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Myst" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-03T03:30:10.085000+00:00" name="calibre:timestamp"/>
+        <meta content="Myst Reader, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

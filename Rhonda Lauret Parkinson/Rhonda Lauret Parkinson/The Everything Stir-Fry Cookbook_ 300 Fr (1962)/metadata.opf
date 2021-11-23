@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1962</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eede484a-95c1-423e-aebf-12f41b215ee9</dc:identifier>
+        <dc:title>The Everything Stir-Fry Cookbook: 300 Fresh and Flavorful Recipes the Whole Family Will Love</dc:title>
+        <dc:creator opf:file-as="Parkinson, Rhonda Lauret" opf:role="aut">Rhonda Lauret Parkinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-13T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Don't have time to cook? Stir-frying is quick, healthy, and easy. With The Everything[Trademark] Stir-Fry Cookbook, you will learn the essentials for making healthy dishes. Start with the freshest ingredients and the correct equipment, then learn how to properly select and prepare food from around the world. Whip up fish and shellfish dishes and get creative with inventive ideas for marinades, sauces, and second helping-worthy desserts, for menu options such as: Indian Curried Chicken, Stir-Fried Spanish Rice, Crisped Beef with Zucchini, Coconut Shrimp/Stir-Fried Fish in Oyster Sauce, Restaurant-Style Mu Shu Pork, Gingered Pork with Udon Noodles, Double Nutty Fiddlehead Greens with Sesame, Tuna Tofu Casserole. A sizzling sourcebook of 300 recipes for delicious meals that don't require a lot of ingredients-or time-The Everything[Registered] Stir-Fry Cookbook offers helpful tips and techniques for making mouthwatering recipes in less time than it would take you to choose what to order from a Chinese menu. Book jacket.</dc:description>
+        <dc:publisher>Everything Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781598692426</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-13T22:51:59.699000+00:00" name="calibre:timestamp"/>
+        <meta content="Everything Stir-Fry Cookbook: 300 Fresh and Flavorful Recipes the Whole Family Will Love, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

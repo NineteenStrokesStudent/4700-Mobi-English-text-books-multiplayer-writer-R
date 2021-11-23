@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0c41c13-d389-491f-8cb8-ee2e9d0dac34</dc:identifier>
+        <dc:title>Wrath of a Mad God</dc:title>
+        <dc:creator opf:file-as="Feist, Raymond E." opf:role="aut">Raymond E. Feist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-29T05:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The celebrated *New York Times* bestselling master of fantasy returns with the thrilling conclusion to his enthralling, explosive Darkwar Saga . . .  
+
+ *Wrath of a Mad God* Book three of The Darkwar Saga  
+
+ *"At this very moment, a dome of black energy is being expanded in a vale in the far north. This is not merely an invasion, but the beginning of a colonization, a process that will end with the complete annihilation of every life-form on this world."*   
+
+ The Darkwar rages upon Midkemia and Kelewan, bringing bleak days of destruction and despair. To save the future of both worlds, the powerful sorcerer Pug and select members of the secretive Conclave of Shadows must journey deep into the dangerous realm of the bloodthirsty Dasati, there to carry out an audacious mission that has little, if any, chance of succeeding.  
+
+ In Midkemia, young warriors Tad and Zane, and their fellow soldiers, protect the Kingdom from raiders. And Pug's beloved wife, Miranda, finds herself a prisoner of the Dasati and, even more ominously, of Pug's nemesis, the evil sorcerer Leso Varen.  
+
+ Salvation may come from a friend thought long dead, an unlikely ally whose remarkable powers will be sorely needed in the momentous battle to come . . . a final, fevered onslaught against the most malevolent agents of evil ever known.</dc:description>
+        <dc:publisher>Eos</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0060792981</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Darkwar Saga" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-11-30T02:52:56+00:00" name="calibre:timestamp"/>
+        <meta content="Wrath of a Mad God" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

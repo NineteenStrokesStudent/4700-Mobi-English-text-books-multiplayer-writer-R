@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac07a5d0-76b4-4d0d-8581-879c9cf59ebc</dc:identifier>
+        <dc:title>Flight of the Nighthawks</dc:title>
+        <dc:creator opf:file-as="Feist, Raymond E." opf:role="aut">Raymond E. Feist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-29T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+" A new evil threatens Midkemia, its web stretching from the deepest criminal underworld all the way up to the highest seats of power in ancient Kesh. And the Conclave of Shadows, charged unexpectedly with the training of two apprentices, must also best powerful agents of the darkest magic . . . for the fate of two worlds lies in the balance. The New York Times bestselling author and master of fantasy Raymond E. Feist returns to his signature world of Midkemia in this first book in a gripping new trilogy that ushers in the third, and most dramatic, Riftwar yet: the Darkwar. In the middle of the night on Sorcerer's Isle, the powerful sorcerer Pug is awakened from a nightmare that portends destruction for all of Midkemia. Disturbed by the dream, Pug calls for a convening of the Conclave of Shadows. Though Pug does not yet know it, his son Magnus has discovered the cause of Pug's prophetic dream: a beacon has been unleashed, directing a vast army of alien invaders to Midkemia, an army so formidable that even the might of the Tsurani Empire might fall before its fury. Meanwhile, in far Stardock town, two boys are coming of age. But on the dusty path that leads them from home they are thrust by fate into a life undreamed of, becoming enmeshed in intrigue, murder, and treason. Though untrained and unready, they are called upon by the mysterious Conclave to travel deep into the heart of the Empire of Great Kesh, to confront a plot so dark and twisted it will implicate even the highest-ranking nobles of the Empire, even members of the royal family itself. And behind this plot they discover the ancient Brotherhood of Death, the clan of assassins known as the Nighthawks. And Pug will find himself once again facing his old nemesis, the evil wizard formerly known as Sidi, now Leso Varen, in a confrontation with everything at stake: his honor, his life, and the future of Midkemia. "</dc:description>
+        <dc:publisher>Eos</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0060792795</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="The Riftwar Cycle" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-11-30T02:59:14+00:00" name="calibre:timestamp"/>
+        <meta content="Flight of the Nighthawks" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: null, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

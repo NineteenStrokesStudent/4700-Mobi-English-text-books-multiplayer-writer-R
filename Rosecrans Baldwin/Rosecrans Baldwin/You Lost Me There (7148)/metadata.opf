@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8002089-ea19-4fef-84b3-a57216aa2e37</dc:identifier>
+        <dc:title>You Lost Me There</dc:title>
+        <dc:creator opf:file-as="Baldwin, Rosecrans" opf:role="aut">Rosecrans Baldwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-19T20:59:37.828000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**A dazzling debut that is at once a lightly erudite novel of ideas and a darkly charming love story set on an island off the coast of Maine-the perfect sophisticated summer read. ** 
+
+
+
+ By turns funny, charming, and tragic, Rosecrans Baldwin's debut novel takes us inside the heart and mind of Dr. Victor Aaron, a leading Alzheimer's researcher at the Soborg Institute on Mount Desert Island in Maine. Victor spends his days alternating between long hours in the sterile lab and running through memories of his late wife, Sara. He has preserved their marriage as a sort of perfect, if tumultuous, duet between two opposite but precisely compatible souls. 
+
+
+
+ But one day, in the midst of organizing his already hyperorganized life, Victor discovers a series of index cards covered in Sara's handwriting. They chronicle the major "changes in direction" of their marriage, written as part of a brief fling with couples counseling. Sara's version of their great love story is markedly different from his own, which, for the eminent memory specialist, is a startling revelation. Victor is forced to reevaluate and relive each moment of their marriage, never knowing is the revisions will hurt or hearten. Meanwhile, as Victor's faith in memory itself unravels, so too does his precisely balanced support network, a group of strong women-from his lab assistant to Aunt Betsy, doddering doyenne of the island-that had, so far, allowed him to avoid grieving. 
+
+
+
+ Rosecrans Baldwin shows himself here to be a young writer bursting with talent and imagination who deftly handles this aching love story with sensitivity and unexpected maturity. *You Lost Me There* is a treasure of a book filled with beautiful, intelligent prose, a book that wears its smarts lightly and probes its emotions deeply.</dc:description>
+        <dc:publisher>RIVERHEAD (2010年8月12日)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594487637</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-02T20:55:45.327000+00:00" name="calibre:timestamp"/>
+        <meta content="You Lost Me There" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

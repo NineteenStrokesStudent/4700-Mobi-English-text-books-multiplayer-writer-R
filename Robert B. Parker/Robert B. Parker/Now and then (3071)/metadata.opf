@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3071</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fa3ce3b-898f-4892-a995-826265310fae</dc:identifier>
+        <dc:title>Now and then</dc:title>
+        <dc:creator opf:file-as="Parker, Robert B." opf:role="aut">Robert B. Parker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-23T07:48:39.046000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+When a simple case turns into a treacherous and politically charged investigation, Spenser faces his most difficult challenge yet-keeping his cool while his beloved Susan Silverman is in danger.    
+
+Spenser knows something's amiss the moment Dennis Doherty walks into his office. The guy's aggressive yet wary, in the way men frightened for their marriages always are. So when Doherty asks Spenser to investigate his wife Jordan's abnormal behavior, Spenser agrees. A job's a job, after all.    
+
+Not surprisingly, Spenser catches Jordan with another man, tells Dennis what he's found out, and considers the case closed. But a couple of days later, all hell breaks loose, and three people are dead. This isn't just a marital affair gone bad. Spenser is in the middle of hornet's nest of trouble, and he's got to get out of it without getting stung. With Hawk watching his back, and gun-for-hire Vinnie Morris providing extra cover, Spenser delves into a complicated and far-reaching operation: Jordan's former lover, Perry Alderson, is the leader of a group that helps sponsor terrorists. But Perry doesn't like Spenser poking around his business, so he decides to get to Spenser through Susan. The Boston P.I. will use all his connections both above and below the law to uncover the truth behind Perry's antigovernment organization. But what Alderson doesn't realize is that Spenser will stop at absolutely nothing to keep Susan out of harm's way; nothing will keep him from the woman he loves.</dc:description>
+        <dc:publisher>G.P. Putnam's Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399154416</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Spenser novels" name="calibre:series"/>
+        <meta content="35" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-03T07:07:12.495000+00:00" name="calibre:timestamp"/>
+        <meta content="Now and then" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
